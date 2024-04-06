@@ -1,0 +1,45 @@
+C:\Users\308user\Desktop\110323073_FinalProject\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe.config
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe.config
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\bin\Debug\110323073_FinalProject.pdb
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\110323073_FinalProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Form1.resources
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Properties.Resources.resources
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\110323073_FinalProject.exe
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\110323073_FinalProject.pdb
+C:\Users\user\Desktop\110323073_FinalProject\110323073_FinalProject\obj\Debug\_110323073_FinalProject.FormAdd.resources
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe.config
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\bin\Debug\110323073_FinalProject.pdb
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Form1.resources
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\_110323073_FinalProject.FormAdd.resources
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Properties.Resources.resources
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.exe
+C:\Users\user\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.pdb
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe.config
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\bin\Debug\110323073_FinalProject.pdb
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Form1.resources
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\_110323073_FinalProject.FormAdd.resources
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Properties.Resources.resources
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.exe
+C:\Users\ASUS\Desktop\110323073_FinalProject - 複製\110323073_FinalProject\obj\Debug\110323073_FinalProject.pdb
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe.config
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\bin\Debug\110323073_FinalProject.exe
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\bin\Debug\110323073_FinalProject.pdb
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\110323073_FinalProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Form1.resources
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\_110323073_FinalProject.FormAdd.resources
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\_110323073_FinalProject.Properties.Resources.resources
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\110323073_FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\110323073_FinalProject.exe
+C:\Users\user\Desktop\110323073_FinalProject - 0608\110323073_FinalProject\obj\Debug\110323073_FinalProject.pdb
